@@ -20,12 +20,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cyclelovedesignco
 github_username:  j-greig
-googleID: UA-41226144-3
+googleID: "UA-41226144-3"
 
 # Build settings
 permalink: :title
 markdown: kramdown
-theme: cyclelovedesignco
+theme: minima
+#theme: cyclelovedesignco
 gems:
   - jekyll-feed
 exclude:

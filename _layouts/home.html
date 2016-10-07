@@ -3,12 +3,17 @@
 {% include _head.html %}
 <body class="pa4 white">
 {% include _nav.html %}
-<h1 class="f1">{{ page.title}}</h1>
-{{ content | 
-	replace: '<p>', '<p class="lh-copy">' | 
-	replace: '<ul>', '<ul class="list pl0">' | 
-	replace: '<li>', '<li class="">'
-}}
+
+<div class="mt5-ns cf">
+	<div class="w-100 w-50-ns pr2 fl">
+		<h1 class="f3 f1-ns">{{ page.title}}</h1>
+		{% include _content.html %}
+	</div>
+	<div class="w-100w-50-ns mt4 mt0-ns fl">
+		<img src="img/bikes.svg">
+	</div>
+</div>
+
 {% include _footer.html %}
 {% include _google_analytics.html %}
 </body>
