@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CycleLove Design Co.
-email: hello@cyclelovedesign.co
-description: Making your cycling brand even better
+title: "CycleLove Design Co."
+email: "hello@cyclelovedesign.co"
+description: "Making your cycling brand even better. CycleLove Design Co harnesses storytelling and design to make brands impactful online."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cyclelovedesign.co/" # the base hostname & protocol for your site
 twitter_username: cyclelovedesignco
 github_username:  j-greig
 googleID: "UA-41226144-3"
@@ -29,6 +29,7 @@ theme: minima
 #theme: cyclelovedesignco
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock

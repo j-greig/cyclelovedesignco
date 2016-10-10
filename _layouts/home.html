@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include _head.html %}
-<body class="pa4 white">
+
+<body class="pa3 pa5-ns white">
+
 {% include _nav.html %}
 
 <div class="mt5-ns cf">
-	<div class="w-100 w-50-ns pr2 fl">
-		<h1 class="f3 f1-ns">{{ page.title}}</h1>
+	<div class="w-100 w-50-l pr0 pr5-l fl">
+		<h1 class="f3 f2-m f1-l">{{ page.title}}</h1>
 		{% include _content.html %}
 	</div>
-	<div class="w-100w-50-ns mt4 mt0-ns fl">
-		<img src="img/bikes.svg">
+	<div class="w-100 w-50-l mv4 mv0-l fl">
+		<img class="w-100" src="{{ "/img/bikes.svg" | absolute_url }}">
 	</div>
 </div>
 
 {% include _footer.html %}
 {% include _google_analytics.html %}
+
 </body>
 </html>

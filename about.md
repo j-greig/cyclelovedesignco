@@ -1,15 +1,15 @@
 ---
 layout: home
-title: About
+title: About Thingie
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We believe in the bicycle.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+CycleLove Design Co. is a digital design agency, brought to you by the team behind CycleLove.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Our mission is to create better cycling brands.
+
+We use storytelling and beautifully simple design to connect your audience with your product.
+
+Let's make things better.
