@@ -17,7 +17,7 @@ title: "CycleLove Design Co."
 email: "hello@cyclelovedesign.co"
 description: "Making your cycling brand even better. CycleLove Design Co harnesses storytelling and design to make brands impactful online."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cyclelovedesign.co/" # the base hostname & protocol for your site
+url: "http://cyclelovedesign.co" # the base hostname & protocol for your site
 twitter_username: cyclelovedesignco
 github_username:  j-greig
 googleID: "UA-41226144-3"

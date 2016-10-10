@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Thingie
+title: About
 permalink: /about/
 ---
 
@@ -13,3 +13,5 @@ Our mission is to create better cycling brands.
 We use storytelling and beautifully simple design to connect your audience with your product.
 
 Let's make things better.
+
+[Get in touch](/contact)
