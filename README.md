@@ -20,3 +20,22 @@ http://cyclelovedesign.co/
 
 4. Install bundler  
 `sudo gem install bundler`
+
+----
+
+## On my laptop
+
+cd /Users/james/repos/cyclelovedesignco
+
+----
+
+## More help
+
+Did Jekyll install correctly? You can check by running:
+
+`$ jekyll --version`
+
+If that's all fine, then try running
+
+`$ bundle install`
+right after you cd into the new blog directory.

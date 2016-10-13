@@ -10,10 +10,16 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 }
 
+a {
+	color: #FFF;
+}
+
 p, ul, li {
 	font-weight: 100;
 }
 
-a {
-	color: #FFF;
+.content ul > li:before {
+  content: "\2014";
+  text-indent: -5px;
+  margin-right: 5px;
 }
