@@ -33,20 +33,20 @@ If you want an easy-to-follow, tailored report that will guide you to a better w
 Feedback from recent clients:
 
 <div class="cf mb4">
-  <div class="fn fl-ns w-20-ns">
+  <div class="fn fl-ns w-20">
     <img src="/img/portrait-nick-hussey-vulpine.png">
   </div>
-  <div class="fn fl-ns w-80-ns">
+  <div class="fn fl-ns w-100 w-80-ns">
     <blockquote class="i lh-copy measure ml3">"Wow! Superb. So many great ideas, it's exciting because we can improve so much. To have everything distilled into one place is awesome."<br>—Nick Hussey, Vulpine</blockquote>
   </div>
 </div>
 
 <div class="cf">
-  <div class="fn fl-ns w-20-ns">
+  <div class="fn fl-ns w-20">
     <img src="/img/portrait-jenni-london-bike-kitchen.jpg">
   </div>
-  <div class="fn fl-ns w-80-ns">
-    <blockquote class="i lh-copy measure ml3">"Sometimes when you work with something everyday, you can't see the forest for the trees — Galvanise gave us an expert outside analysis of how our website was and wasn't working. (The SEO overview was an unexpected bonus too… it's not something I'd thought of working on before, even knowing that most people find us via search). James really thought about our business — his suggestions were straightforward and easy to implement, and passionate about the work that we do."<br>—Jenni Gwiazdowski, London Bike Kitchen</blockquote>
+  <div class="fn fl-ns w-100 w-80-ns">
+    <blockquote class="i lh-copy measure ml3">"Sometimes when you work with something everyday, you can't see the forest for the trees — Galvanise gave us an expert outside analysis of how our website was and wasn't working. (The SEO overview was an unexpected bonus too… it's not something I'd thought of working on before, even knowing that most people find us via search). James really thought about our business; his suggestions were straightforward and easy to implement, and passionate about the work we do."<br>—Jenni Gwiazdowski, London Bike Kitchen</blockquote>
   </div>
 </div>
 

@@ -7,13 +7,11 @@ permalink: /about/
 ## Galvanise
 A concrete plan for making your cycling website better  
 <a class="-button" href="/galvanise">Read more</a>
-
 &nbsp;
 
 ## Design &amp; Build
-Design and build of your website or ecommerce store.
+Design and build of your website or ecommerce store.  
 <a class="-button mid-gray b--dashed" href="">Coming soon</a>
-
 &nbsp;
 
 ## Amplify

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Seven ways to boost your website’s SEO in less than 10 minutes"
+title:  "Seven ways to boost your website’s SEO"
 subtitle:  "Easy SE0 tips that will give you instant results"
 date:   2016-10-07 16:15:12 +0100
 categories: jekyll update
@@ -12,4 +12,4 @@ categories: jekyll update
 4. Do some keyword research using Google
 5. Link your pages together intelligently
 6. Ask people to link to your content
-7. Turn your most frequenctly asked questions into blog posts
+7. Turn the questions you are most often asked questions into blog posts
