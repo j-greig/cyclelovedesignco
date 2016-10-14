@@ -1,17 +1,21 @@
 ---
-layout: home
-title: About
+layout: page
+title: Building<br>better<br>brands
+subtitle: <h2 class="lh-title">We harness the power of design and storytelling to connect your products with a bigger audience.</h2>
 permalink: /about/
 ---
+## Galvanise
+A concrete plan for making your cycling website better  
+<a class="-button" href="/galvanise">Read more</a>
 
-## We believe in the bicycle.
+&nbsp;
 
-CycleLove Design Co. is a digital design agency, brought to you by the team behind CycleLove.
+## Design &amp; Build
+Design and build of your website or ecommerce store.
+<a class="-button mid-gray b--dashed" href="">Coming soon</a>
 
-Our mission is to create better cycling brands.
+&nbsp;
 
-We use storytelling and design to connect your brand with the audience it deserves.
-
-Let's make things better, together.
-
-[Get in touch](/contact)
+## Amplify
+Get the word out about your product  
+<a class="-button mid-gray b--dashed" href="">Coming soon</a>

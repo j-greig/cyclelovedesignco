@@ -1,6 +1,7 @@
 ---
-layout: posts
-title:  "Welcome to Jekyll!"
+layout: page
+title:  "Don't make it about you"
+subtitle:  "An introduction to copywriting for the web"
 date:   2016-10-07 16:15:12 +0100
 categories: jekyll update
 ---
