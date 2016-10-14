@@ -1,7 +1,8 @@
 ---
 # Theme help: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title:  "Your cycling brand, <br>made even better."
+title: "CycleLove Design Co."
+subtitle:  "Your cycling brand, <br>made even better."
 image: img/cyclelove_design_co_bikes.png
 ---
 <!-- [How we can help your business](/services) -->

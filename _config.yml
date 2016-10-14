@@ -8,7 +8,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "CycleLove Design Co."
 email: "hello@cyclelovedesign.co"
-description: "CycleLove Design Co. harnesses storytelling and design to build better brands."
+description: "CycleLove Design Co. harnesses storytelling and design to build better brands. A digital design agency, from the team behind CycleLove."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cyclelovedesign.co" # the base hostname & protocol for your site
 twitter_username: cyclelovedesignco
