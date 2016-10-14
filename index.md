@@ -3,7 +3,7 @@
 layout: home
 title: "CycleLove Design Co."
 subtitle:  "Your cycling brand, <br>made even better."
-image: img/cyclelove_design_co_bikes.png
+image: /img/cyclelove_design_co_bikes.png
 ---
 <!-- [How we can help your business](/services) -->
 <a class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib white" href="/about">What We Do</a>
