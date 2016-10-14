@@ -21,7 +21,7 @@ permalink: /contact/
 <div class="fn fl-ns w-25-ns">Skype</div>
 <div class="fn fl-ns w-75-ns">james_greig</div>
 
-<br><br>
+<br><br><br><br>
 
 <div class="fn fl-ns w-25-ns">Elsewhere</div>
 <div class="fn fl-ns w-75-ns"><a href="http://cyclelove.cc">CycleLove</a></div>

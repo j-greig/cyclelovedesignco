@@ -36,6 +36,10 @@ PAGE CONTENT
   margin-right: 5px;
 }
 
+.content p + h2.tracked {
+	margin-top: 60px;
+}
+
 /****************
 BROWSERSYNC
 ****************/
