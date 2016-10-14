@@ -39,3 +39,9 @@ If that's all fine, then try running
 
 `$ bundle install`
 right after you cd into the new blog directory.
+
+----
+
+### Git Plus in Atom
+
+Show palette = Cmd-Shift-H

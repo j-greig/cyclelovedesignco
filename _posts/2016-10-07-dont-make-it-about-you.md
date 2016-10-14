@@ -23,7 +23,8 @@ What are your customers interested in then?
 
 To quote UX designer Samuel Hulick on this:
 
-"People don’t buy products; they buy a better version of themselves" {Click to tweet this}
+> "People don’t buy products; they buy a better version of themselves"
+
 And I think the same holds true for service-based businesses too.
 
 Companies aren’t interested in what you do; they’re interested in how you can make them more awesome.
