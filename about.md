@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building<br>better<br>brands
-subtitle: <h2 class="lh-title">We harness the power of design and storytelling to connect your company with a bigger audience.</h2>
+subtitle: <h2 class="lh-title">We harness the power of design and storytelling to connect your company with a bigger audience.</h2><h2>From the team behind <a href="http://cyclelove.cc">CycleLove</a>.</h2>
 permalink: /about/
 ---
 ## Galvanise
