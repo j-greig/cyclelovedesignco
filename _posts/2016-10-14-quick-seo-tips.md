@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Seven ways to boost your website’s SEO"
-subtitle:  "Easy SE0 tips that will give you instant results"
+subtitle:  "Easy SEO tips that will give you instant results"
 date:   2016-10-07 16:15:12 +0100
 categories: jekyll update
 ---

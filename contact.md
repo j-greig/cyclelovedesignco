@@ -18,6 +18,11 @@ permalink: /contact/
 
 <br><br>
 
+<div class="fn fl-ns w-25-ns">Twitter</div>
+<a href="https://twitter.com/cyclelovedesign">@cyclelovedesignco</a>
+
+<br><br>
+
 <div class="fn fl-ns w-25-ns">Skype</div>
 <div class="fn fl-ns w-75-ns">james_greig</div>
 
