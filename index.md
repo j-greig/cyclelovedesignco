@@ -5,7 +5,7 @@ title:  "Your cycling brand,<br>made even better."
 
 ---
 <!-- [How we can help your business](/services) -->
-<a class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib white" href="/services">What We Do</a>
+<a class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib white" href="/about">What We Do</a>
 
 {% comment %}
 <p>We can help your cycling company to:</p>
