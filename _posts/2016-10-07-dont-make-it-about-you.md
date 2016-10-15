@@ -85,7 +85,8 @@ Don’t worry though, it isn’t about skintight lycra outfits…
 
 Have a read of this opening paragraph from the description of a new cycling jacket:
 
-"We’ve gone all out to produce the finest waterproof in cycling. We’ve re-thought how to keep you comfortable. When the rain comes and doesn’t stop, this is the jacket. We have spent the greatest amount of R&D time ever on the Gills Jacket, and we’re hugely proud of it."
+"We’ve gone all out to produce the finest waterproof in cycling. We’ve re-thought how to keep you comfortable. When the rain comes and doesn’t stop, this is the jacket. We have spent the greatest amount of R&D time ever on our jacket, and we’re hugely proud of it."
+
 Count them: four mentions of “we”… and only one of “you”.
 
 This is the copywriting equivalent of shouting “Me! Me! Me!”

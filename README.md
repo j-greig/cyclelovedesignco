@@ -43,5 +43,7 @@ right after you cd into the new blog directory.
 ----
 
 ### Git Plus in Atom
-
 Show palette = Cmd-Shift-H
+
+### Gulp in Atom
+ctrl-alt-o
