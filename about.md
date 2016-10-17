@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building<br>better<br>brands
+title: Building <br>better <br>brands
 subtitle: <h2 class="lh-title">We harness the power of design and storytelling to connect your company with a bigger audience.</h2><p class="lh-copy">Our clients include:</p><p>— Vulpine<br>— London Bike Kitchen<br>— Saffron Frameworks<br>— Paul Calver
 permalink: /about/
 ---
