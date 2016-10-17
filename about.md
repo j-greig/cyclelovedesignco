@@ -10,8 +10,8 @@ A concrete plan for making your cycling website better
 &nbsp;
 
 ## Design &amp; Build
-Design and build of your website or ecommerce store.  
-<a class="-button mid-gray b--dashed" href="">Coming soon</a>
+Work with us to define, build and design your new website or ecommerce store. Together we’ll put together an actionable, easy-to-follow plan for launch and beyond.  
+<a class="-button"  href="mailto:james@cyclelovedesign.co?Subject=Hello%20via%20your%20website">Find out more</a>
 &nbsp;
 
 ## Amplify
